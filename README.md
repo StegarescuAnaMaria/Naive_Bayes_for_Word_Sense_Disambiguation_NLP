@@ -8,7 +8,7 @@ Next, I calculated the probabilities for each sense for each target word using t
 ![image](/images/formula2.jpg)
 ![image](/images/formula3.jpg)
 
-###After experimenting with the window size and the number of most common words from each context, the accuracy results are:
+## After experimenting with the window size and the number of most common words from each context, the accuracy results are:
 
 "Line": 96.78%
 
